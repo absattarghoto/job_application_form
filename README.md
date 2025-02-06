@@ -25,4 +25,13 @@ A modern and responsive **Job Application Form** crafted with **HTML & CSS**, de
 ---
 
 ## 📷 Preview  
-🖼️ 
+🖼️  ![Job Application Form Screenshot](assets/Project_image.png)
+
+
+---
+
+## 🚀If you wont use it  
+
+1️⃣ **Clone this repository**  
+   ```sh
+   git clone https://github.com/absattarghoto/job_application_form.git
