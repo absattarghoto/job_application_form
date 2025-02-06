@@ -29,8 +29,8 @@ A modern and responsive **Job Application Form** crafted with **HTML & CSS**, de
 
 
 ---
-
-## 🚀If you wont use it  
+## 🚀 Getting Started
+Follow these steps to get the project up and running:
 
 1️⃣ **Clone this repository**  
    ```sh
